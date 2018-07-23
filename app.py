@@ -11,6 +11,7 @@ app.register_blueprint(jk)
 
 @app.route('/')
 def home():
+	b = 2 + 2
     return render_template('index.html')
 
 app.run(debug=True)
