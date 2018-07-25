@@ -28,5 +28,6 @@ exit()
 #response = requests.post(GITLAB.format(tk=TOKEN, route='users'), user)
 #print(response.json())
 
-pid = 2
-response = requests.post('http://192.168.0.100/api/v4/projects/{pid}/members?private_token={tk}'.format(pid=2, tk=TOKEN))
+pid = 3
+member = {'user_id' : 0, 'access_level' : 40}
+response = requests.post('http://192.168.0.100/api/v4/projects/{pid}/members?private_token={tk}'.format(pid=3, tk=TOKEN))

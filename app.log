@@ -1,0 +1,7 @@
+[ 24/07/2018 22:05:20 ] [ WARNING ] werkzeug [ _log ] [_internal.py, 87]  * Debugger is active!
+[ 24/07/2018 22:05:23 ] [ ERROR ] root [ home ] [app.py, 29] Acessaram o dashboard
+[ 24/07/2018 22:05:36 ] [ ERROR ] root [ home ] [app.py, 29] Acessaram o dashboard
+[ 24/07/2018 22:05:37 ] [ ERROR ] root [ home ] [app.py, 29] Acessaram o dashboard
+[ 24/07/2018 22:05:38 ] [ ERROR ] root [ home ] [app.py, 29] Acessaram o dashboard
+[ 24/07/2018 22:05:38 ] [ ERROR ] root [ home ] [app.py, 29] Acessaram o dashboard
+[ 24/07/2018 22:05:39 ] [ ERROR ] root [ home ] [app.py, 29] Acessaram o dashboard
